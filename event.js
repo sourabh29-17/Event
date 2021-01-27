@@ -92,4 +92,4 @@ import CardItem from './CardItem';
     }
 
 
-  export default Cards;
+  export default Events;
